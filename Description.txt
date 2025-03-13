@@ -1,0 +1,49 @@
+HustleMaxAI – Smart AI Product Placement UI
+
+Overview:
+Build a modern, AI-driven user interface for HustleMaxAI, an AI-powered product placement tool that helps small businesses optimize their marketing across WhatsApp, Facebook, Jumia, and Instagram. The UI should be clean, responsive, and user-friendly with an emphasis on automation and AI insights.
+
+Technology Stack:
+
+React (TypeScript)
+Tailwind CSS for styling
+Recharts for AI-driven analytics visualization
+ShadCN/UI for modern UI components
+Lucide-react for icons
+Key Features:
+
+Dashboard – Show product performance, AI recommendations, and ad analytics
+Product Upload & Optimization – Allow users to add products, auto-generate descriptions, and get AI suggestions
+Platform Integration – Connect to WhatsApp, Instagram, Jumia, and Facebook for automated marketing
+AI Insights Panel – Provide data-driven insights on the best-performing products and sales trends
+Ad Copy Generator – Generate high-converting marketing captions based on AI recommendations
+User Authentication – Google Sign-In and Email/Password authentication
+Subscription Plans – Display pricing tiers and manage payments
+UI Design Guidelines:
+
+Minimalistic and sleek design (focus on clarity and ease of use)
+Dark & Light mode toggle
+Card-based layout for intuitive interaction
+Dynamic charts and insights panel to make AI analytics visually engaging
+Target Audience:
+
+Small business owners, digital marketers, and entrepreneurs looking to maximize online product visibility
+User Flow:
+
+User logs in → lands on the Dashboard
+User adds a product → AI generates marketing captions and suggests best platforms
+User reviews insights → adjusts marketing strategy
+User integrates with social media → schedules automated product posts
+Styling & Components:
+
+Sidebar Navigation: Dashboard, Products, AI Insights, Integrations, Settings
+Cards & Tables: Display AI-suggested products and trends
+Modals & Alerts: For AI recommendations and updates
+Floating Action Button (FAB): Quick add product feature
+Color Palette:
+
+Primary: #1E3A8A (Deep Blue for AI branding)
+Secondary: #F59E0B (Gold for success & abundance)
+Accent: #4ADE80 (Green for growth)
+Call to Action:
+Generate a production-ready UI structure with reusable components, optimized for scalability and AI integration.
